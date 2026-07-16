@@ -4,7 +4,7 @@ A clean, from-scratch implementation of multivariate Linear Regression optimized
 
 This project was built from scratch without relying on high-level ML libraries like `scikit-learn` or `PyTorch` for model training, highlighting core implementation skills in mathematical optimization and gradient descent.
 
-## 🚀 Key Features
+##  Key Features
 
 * **Exploratory Data Analysis (EDA)**: Automatic generation of correlation matrices, feature histograms, and trend visualizations.
 * **From-Scratch Gradient Descent**: Custom implementation of cost function, gradient computation, and gradient descent optimization.
@@ -17,7 +17,7 @@ This project was built from scratch without relying on high-level ML libraries l
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 After training for `2000` iterations with a learning rate ($\alpha$) of `0.01`:
 * **Mean Squared Error (MSE)**: `0.5907`
@@ -25,7 +25,7 @@ After training for `2000` iterations with a learning rate ($\alpha$) of `0.01`:
 
 ---
 
-## 📊 Visualizations & Results
+##  Visualizations & Results
 
 ### 1. Amazon Closing Price Trend
 Shows the historical closing price trend of Amazon stock.
